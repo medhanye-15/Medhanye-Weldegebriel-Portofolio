@@ -20,12 +20,12 @@ h1 {
     font-family: 'Courgette', cursive;
     font-weight: normal;
     margin: auto;
-    background: #7C4935;
+    background: #978c87;
     line-height: 2.5em;
 }
 
 main.wrapper {
-    background-color:brown;
+    background-color:rgb(153, 165, 42);
     overflow: auto;
 }
 
@@ -40,13 +40,13 @@ h2,h3 {
 }
 
 a {
-    color:brown yellow;
+    color:brown ;
     text-decoration: none;
 }
 
 a:hover {
     color: #CD7E59;
-    background-color: yellow;
+    background-color: rgb(12, 9, 48);
     text-decoration: none;
 }
 
